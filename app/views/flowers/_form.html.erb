@@ -1,0 +1,49 @@
+<%= form_with(model: flower, local: true) do |form| %>
+  <% if flower.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(flower.errors.count, "error") %> prohibited this flower from being saved:</h2>
+
+      <ul>
+      <% flower.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :名前 %>
+    <%= form.text_field :name, id: :flower_name %>
+  </div>
+
+  <div class="field">
+    <%= form.label :かな名 %>
+    <%= form.text_field :kana, id: :flower_kana %>
+  </div>
+
+  <div class="field">
+    <%= form.label :花言葉 %>
+    <%= form.text_field :words, id: :flower_words %>
+  </div>
+
+  <div class="field">
+    <%= form.label :誕生日 %>
+    <%= form.date_select :words,{discard_year:true} %>
+  </div>
+
+    <div class="field">
+    <%= form.label :誕生日 %>
+    <%= form.date_select :words,{discard_year:true} %>
+  </div>
+
+  <div class="field">
+    <%= form.label :誕生日 %>
+    <%= form.date_select :words,{discard_year:true}%>
+  </div>
+
+
+  <div class="actions">
+    <%= form.submit value="登録" %>
+  </div>
+
+<% end %>
