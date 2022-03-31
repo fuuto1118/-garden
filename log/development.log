@@ -716,3 +716,1865 @@ Processing by FlowersController#new as HTML
 Completed 200 OK in 165ms (Views: 158.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2022-03-30 23:15:22 +0900
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (7.0ms)
+Completed 200 OK in 52ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:15:33 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (602.3ms)
+Completed 200 OK in 782ms (Views: 777.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-30 23:20:37 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 14ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:20:48 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 209ms (Views: 203.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:21:14 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 59ms (Views: 56.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:21:42 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 58ms (Views: 55.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:21:43 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 37ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:23:04 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 62ms (Views: 59.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:24:25 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 86ms (Views: 83.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:25:12 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 66ms (Views: 63.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-30 23:31:05 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (5.2ms)
+Completed 200 OK in 16ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:31:12 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 97ms (Views: 90.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:32:18 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 82ms (Views: 79.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:32:56 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 72ms (Views: 69.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:33:21 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 83ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:33:37 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 62ms (Views: 58.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:33:55 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 76ms (Views: 72.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:34:25 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 63ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:34:56 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 66ms (Views: 62.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:35:24 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 48ms (Views: 45.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:35:47 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 79ms (Views: 76.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:36:03 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 63ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:41:01 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 62ms (Views: 59.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:46:26 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 66ms (Views: 63.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:51:18 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 74ms (Views: 68.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:52:48 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 120ms (Views: 114.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:53:33 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 79ms (Views: 76.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:54:35 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 75ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:55:43 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 66ms (Views: 63.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:57:02 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 71ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:58:35 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 37ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:59:43 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 112ms (Views: 108.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-30 23:59:45 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 67ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:01:44 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 127ms (Views: 122.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:01:55 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 62ms (Views: 59.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:02:04 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 60ms (Views: 57.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:02:18 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 107ms (Views: 103.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:02:36 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 67ms (Views: 63.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:05:14 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 63ms (Views: 61.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:06:25 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 64ms (Views: 61.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:06:40 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 82ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:07:00 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 58ms (Views: 55.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:07:39 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 66ms (Views: 61.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:08:31 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 83ms (Views: 79.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:09:05 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 67ms (Views: 64.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:12:13 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 65ms (Views: 62.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:12:31 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 58ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:12:47 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 56ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:12:59 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 64ms (Views: 62.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:13:16 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 49ms (Views: 46.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:13:28 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 80ms (Views: 75.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:14:19 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 71ms (Views: 69.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:15:30 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 71ms (Views: 68.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:16:53 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 69ms (Views: 66.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:17:28 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 76ms (Views: 73.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:17:55 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 66ms (Views: 63.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:18:21 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 63ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:18:42 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 68ms (Views: 65.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:18:43 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 38ms (Views: 35.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:18:57 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 65ms (Views: 62.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:20:31 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 71ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:20:33 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 43ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:20:55 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 66ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:21:10 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 55ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:21:18 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 71ms (Views: 67.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:21:27 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 100ms (Views: 95.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:21:29 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 45ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:21:51 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 77ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:21:53 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 41ms (Views: 38.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:22:04 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 74ms (Views: 70.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:22:05 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 40ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:22:05 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 35ms (Views: 32.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:22:05 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 35ms (Views: 32.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:22:05 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 35ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:22:50 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 68ms (Views: 65.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:23:15 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 73ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:23:37 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 64ms (Views: 61.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:24:26 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 109ms (Views: 104.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:24:52 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 64ms (Views: 62.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:25:17 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 62ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:25:32 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 67ms (Views: 64.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:26:00 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 82ms (Views: 77.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:26:18 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 63ms (Views: 60.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:26:19 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 41ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:26:39 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 67ms (Views: 63.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:26:47 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 68ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:26:56 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 61ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:28:14 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 64ms (Views: 61.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:28:54 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 71ms (Views: 68.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:29:14 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 76ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:29:15 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 36ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:29:28 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 40ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:29:59 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 64ms (Views: 60.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:32:09 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 63ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:33:24 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 69ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:33:34 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 78ms (Views: 75.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:33:45 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 61ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:34:43 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 66ms (Views: 63.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:35:52 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 65ms (Views: 62.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:36:35 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 50ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:36:52 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 101ms (Views: 87.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:37:12 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 46ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:37:13 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 51ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:37:52 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 57ms (Views: 54.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:37:53 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 40ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:38:52 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 61ms (Views: 58.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:39:18 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 66ms (Views: 62.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:39:32 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 64ms (Views: 61.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:39:47 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 70ms (Views: 67.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:40:01 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 44ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:41:15 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 62ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:41:34 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 84ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:41:46 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 57ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:41:53 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 65ms (Views: 62.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:42:33 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 89ms (Views: 83.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:42:38 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 51ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:43:30 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 68ms (Views: 66.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:43:49 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 63ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:44:02 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 62ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:44:16 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 65ms (Views: 62.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:44:28 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 60ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:44:57 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 66ms (Views: 63.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:45:12 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 62ms (Views: 59.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:45:35 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 42ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:45:59 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 64ms (Views: 62.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:46:08 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 115ms (Views: 109.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:46:24 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 97ms (Views: 92.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:46:34 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 73ms (Views: 70.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:47:42 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 61ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:48:04 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 99ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:48:19 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 112ms (Views: 107.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:48:39 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 63ms (Views: 60.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:48:53 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 61ms (Views: 58.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:49:06 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 80ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:49:32 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 74ms (Views: 70.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:50:20 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 59ms (Views: 55.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:51:11 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 67ms (Views: 64.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:51:21 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 96ms (Views: 91.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:51:22 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 69ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:52:07 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 124ms (Views: 119.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:52:35 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (16.1ms)
+Completed 200 OK in 78ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:52:37 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 38ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:52:49 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 41ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:53:19 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 61ms (Views: 59.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:53:33 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 39ms (Views: 37.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:53:57 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 65ms (Views: 62.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:54:37 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 84ms (Views: 81.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:54:49 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 66ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:56:10 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 65ms (Views: 61.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:56:27 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 86ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:56:49 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 84ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:59:08 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 84ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 00:59:55 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 109ms (Views: 106.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:01:16 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 60ms (Views: 58.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:02:53 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 63ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:05:15 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 61ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:07:27 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 62ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:07:39 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 63ms (Views: 60.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:08:22 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 64ms (Views: 60.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:08:31 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 64ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:08:41 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 122ms (Views: 117.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:09:01 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 60ms (Views: 57.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:09:24 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 88ms (Views: 85.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:09:37 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 64ms (Views: 61.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:09:59 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 65ms (Views: 62.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:10:06 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 76ms (Views: 73.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:10:47 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 70ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:11:08 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 56ms (Views: 54.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:11:22 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 42ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:12:37 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 77ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:13:10 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 58ms (Views: 55.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:13:44 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 75ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:16:34 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 63ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 01:16:50 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 93ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-03-31 11:31:07 +0900
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (7.7ms)
+Completed 200 OK in 45ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for 127.0.0.1 at 2022-03-31 11:31:15 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (888.3ms)
+Completed 200 OK in 1017ms (Views: 1005.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 11:34:55 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (18.7ms)
+Completed 200 OK in 352ms (Views: 346.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:35:15 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (203.8ms)
+  Rendered flowers/new.html.erb within layouts/application (284.9ms)
+Completed 200 OK in 452ms (Views: 387.2ms | ActiveRecord: 4.8ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:42:03 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (8.7ms)
+  Rendered flowers/new.html.erb within layouts/application (14.7ms)
+Completed 200 OK in 130ms (Views: 123.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:42:05 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (9.3ms)
+  Rendered flowers/new.html.erb within layouts/application (14.7ms)
+Completed 200 OK in 91ms (Views: 86.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:42:19 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (7.3ms)
+  Rendered flowers/new.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 112ms (Views: 107.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:43:08 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (9.1ms)
+  Rendered flowers/new.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 134ms (Views: 129.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:43:21 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (11.4ms)
+  Rendered flowers/new.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 149ms (Views: 144.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:43:29 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (12.3ms)
+  Rendered flowers/new.html.erb within layouts/application (18.8ms)
+Completed 200 OK in 156ms (Views: 151.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:43:43 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (11.8ms)
+  Rendered flowers/new.html.erb within layouts/application (19.6ms)
+Completed 200 OK in 145ms (Views: 139.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:43:57 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (8.2ms)
+  Rendered flowers/new.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 139ms (Views: 134.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:45:42 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (12.1ms)
+  Rendered flowers/new.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 136ms (Views: 132.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:45:51 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (12.9ms)
+  Rendered flowers/new.html.erb within layouts/application (20.1ms)
+Completed 200 OK in 166ms (Views: 161.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:48:13 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (9.4ms)
+  Rendered flowers/new.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 168ms (Views: 161.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:49:33 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (1.7ms)
+  Rendered flowers/new.html.erb within layouts/application (76.3ms)
+Completed 500 Internal Server Error in 88ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:46: syntax error, unexpected tIDENTIFIER, expecting ')'
+...form.submit value="登録" size="30" style="width:200px; hei...
+...                           ^~~~
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:46: syntax error, unexpected tIDENTIFIER, expecting ')'
+... value="登録" size="30" style="width:200px; height:40px;" ...
+...                          ^~~~~):
+  
+app/views/flowers/_form.html.erb:46: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/flowers/_form.html.erb:46: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__891843875_1227450940360'
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:50:18 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (0.9ms)
+  Rendered flowers/new.html.erb within layouts/application (68.8ms)
+Completed 500 Internal Server Error in 85ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:46: syntax error, unexpected tIDENTIFIER, expecting ')'
+...orm.submit value="登録" style="height:40px;" );@output_buf...
+...                          ^~~~~):
+  
+app/views/flowers/_form.html.erb:46: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__891843875_1227481789480'
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:51:27 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (1.7ms)
+  Rendered flowers/new.html.erb within layouts/application (75.2ms)
+Completed 500 Internal Server Error in 93ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:46: syntax error, unexpected tIDENTIFIER, expecting ')'
+...bmit style="height:40px;" value="登録" );@output_buffer.sa...
+...                          ^~~~~):
+  
+app/views/flowers/_form.html.erb:46: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__891843875_1227472747120'
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:51:45 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (5.5ms)
+  Rendered flowers/new.html.erb within layouts/application (69.8ms)
+Completed 200 OK in 150ms (Views: 144.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:53:56 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (37.2ms)
+  Rendered flowers/new.html.erb within layouts/application (42.9ms)
+Completed 200 OK in 173ms (Views: 167.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:54:16 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (9.4ms)
+  Rendered flowers/new.html.erb within layouts/application (14.8ms)
+Completed 200 OK in 152ms (Views: 147.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:56:22 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (8.7ms)
+  Rendered flowers/new.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 132ms (Views: 126.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 11:56:43 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (13.5ms)
+  Rendered flowers/new.html.erb within layouts/application (20.5ms)
+Completed 200 OK in 157ms (Views: 152.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 12:02:36 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (13.1ms)
+  Rendered flowers/new.html.erb within layouts/application (19.7ms)
+Completed 200 OK in 152ms (Views: 144.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 12:06:25 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (10.2ms)
+  Rendered flowers/new.html.erb within layouts/application (17.9ms)
+Completed 200 OK in 186ms (Views: 166.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 12:06:27 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (8.6ms)
+  Rendered flowers/new.html.erb within layouts/application (14.5ms)
+Completed 200 OK in 90ms (Views: 84.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 13:33:03 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 125ms (Views: 118.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/flowers" for ::1 at 2022-03-31 13:33:06 +0900
+Processing by FlowersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HRIx9FtWkRcTUJ/Dmu5u+TSGZ0oV/CkmPwyYbDkb0ZeTG+XyrAEVCjKRCaK9x9R++KcgJnyvzmSIFRzNGMfQDA==", "flower"=>{"name"=>"", "kana"=>"", "words"=>"", "words(1i)"=>"2022", "words(2i)"=>"3", "words(3i)"=>"31"}, "commit"=>"登録"}
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (4.9ms)[0m  [1m[32mINSERT INTO "flowers" ("name", "kana", "words", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", ""], ["kana", ""], ["words", "{1=>2022, 2=>3, 3=>31}"], ["created_at", "2022-03-31 04:33:06.899499"], ["updated_at", "2022-03-31 04:33:06.899499"]]
+  [1m[35m (27.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/flowers/2
+Completed 302 Found in 55ms (ActiveRecord: 32.8ms)
+
+
+Started GET "/flowers/2" for ::1 at 2022-03-31 13:33:06 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mFlower Load (0.9ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 170ms (Views: 110.9ms | ActiveRecord: 0.9ms)
+
+
+Started POST "/flowers" for ::1 at 2022-03-31 13:58:53 +0900
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by FlowersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HRIx9FtWkRcTUJ/Dmu5u+TSGZ0oV/CkmPwyYbDkb0ZeTG+XyrAEVCjKRCaK9x9R++KcgJnyvzmSIFRzNGMfQDA==", "flower"=>{"name"=>"", "kana"=>"", "words"=>"", "words(1i)"=>"2022", "words(2i)"=>"3", "words(3i)"=>"31"}, "commit"=>"登録"}
+  [1m[35m (0.7ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (7.0ms)[0m  [1m[32mINSERT INTO "flowers" ("name", "kana", "words", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", ""], ["kana", ""], ["words", "{1=>2022, 2=>3, 3=>31}"], ["created_at", "2022-03-31 04:58:55.878520"], ["updated_at", "2022-03-31 04:58:55.878520"]]
+  [1m[35m (14.5ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/flowers/3
+Completed 302 Found in 64ms (ActiveRecord: 24.6ms)
+
+
+Started GET "/flowers/3" for ::1 at 2022-03-31 13:58:55 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mFlower Load (0.8ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 2321ms (Views: 2296.3ms | ActiveRecord: 0.8ms)
+
+
+Started POST "/flowers" for ::1 at 2022-03-31 13:59:03 +0900
+Processing by FlowersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HRIx9FtWkRcTUJ/Dmu5u+TSGZ0oV/CkmPwyYbDkb0ZeTG+XyrAEVCjKRCaK9x9R++KcgJnyvzmSIFRzNGMfQDA==", "flower"=>{"name"=>"", "kana"=>"", "words"=>"", "words(1i)"=>"2022", "words(2i)"=>"3", "words(3i)"=>"31"}, "commit"=>"登録"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.6ms)[0m  [1m[32mINSERT INTO "flowers" ("name", "kana", "words", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", ""], ["kana", ""], ["words", "{1=>2022, 2=>3, 3=>31}"], ["created_at", "2022-03-31 04:59:03.169235"], ["updated_at", "2022-03-31 04:59:03.169235"]]
+  [1m[35m (26.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/flowers/4
+Completed 302 Found in 45ms (ActiveRecord: 30.3ms)
+
+
+Started GET "/flowers/4" for ::1 at 2022-03-31 13:59:03 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mFlower Load (0.5ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 124ms (Views: 115.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/flowers/4" for ::1 at 2022-03-31 14:04:10 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mFlower Load (0.6ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 92ms (Views: 83.2ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/flowers/4" for ::1 at 2022-03-31 14:04:14 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mFlower Load (0.5ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 169ms (Views: 160.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:04:19 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (3.3ms)
+  Rendered flowers/new.html.erb within layouts/application (99.4ms)
+Completed 500 Internal Server Error in 145ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected {, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+...er.append=( form.date_select :{discard_year:true,:include_bl...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank});@output_buffer.safe_append='
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/flowers/_form.html.erb:31: syntax error, unexpected {, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__645481980_851983349560'
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:06:11 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (1.1ms)
+  Rendered flowers/new.html.erb within layouts/application (95.1ms)
+Completed 500 Internal Server Error in 116ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank});@output_buffer.safe_append='
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__645481980_852010657580'
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:06:37 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (4.3ms)
+  Rendered flowers/new.html.erb within layouts/application (86.0ms)
+Completed 500 Internal Server Error in 107ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+...scard_year:true,:include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__645481980_852008560380'
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:07:10 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (0.9ms)
+  Rendered flowers/new.html.erb within layouts/application (65.1ms)
+Completed 500 Internal Server Error in 75ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__645481980_852008844500'
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:08:00 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (4.2ms)
+  Rendered flowers/new.html.erb within layouts/application (114.6ms)
+Completed 500 Internal Server Error in 130ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected ':', expecting ')'
+...pend=( form.date_select :words:{discard_year:true,include_bl...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:36: syntax error, unexpected ':', expecting ')'
+...pend=( form.date_select :words:{discard_year:true,include_bl...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:41: syntax error, unexpected ':', expecting ')'
+...pend=( form.date_select :words:{discard_year:true,include_bl...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/flowers/_form.html.erb:31: syntax error, unexpected ':', expecting ')'
+app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:36: syntax error, unexpected ':', expecting ')'
+app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:41: syntax error, unexpected ':', expecting ')'
+app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__645481980_852007986800'
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:08:30 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (2.5ms)
+  Rendered flowers/new.html.erb within layouts/application (88.0ms)
+Completed 500 Internal Server Error in 106ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected {, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+...nd=( form.date_select :words,:{discard_year:true,include_bla...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:36: syntax error, unexpected {, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+...nd=( form.date_select :words,:{discard_year:true,include_bla...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:41: syntax error, unexpected {, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+...nd=( form.date_select :words,:{discard_year:true,include_bla...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+...iscard_year:true,include_blank} );@output_buffer.safe_append...
+...                              ^
+C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/flowers/_form.html.erb:31: syntax error, unexpected {, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+app/views/flowers/_form.html.erb:31: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:36: syntax error, unexpected {, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+app/views/flowers/_form.html.erb:36: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:41: syntax error, unexpected {, expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+app/views/flowers/_form.html.erb:41: syntax error, unexpected '}', expecting =>
+app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting ')'
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__645481980_852007971940'
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:09:50 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (1.6ms)
+  Rendered flowers/new.html.erb within layouts/application (90.0ms)
+Completed 500 Internal Server Error in 109ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/fuuta/fortune-telling/app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting end):
+  
+app/views/flowers/_form.html.erb:63: syntax error, unexpected end-of-input, expecting end
+app/views/flowers/new.html.erb:3:in `_app_views_flowers_new_html_erb__645481980_852008080380'
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:10:34 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (46.4ms)
+  Rendered flowers/new.html.erb within layouts/application (106.8ms)
+Completed 200 OK in 218ms (Views: 185.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/flowers" for ::1 at 2022-03-31 14:11:44 +0900
+Processing by FlowersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Pitz244grOgSfhYFCUQacP8YM+7HpJS+w5YYHmjyNgiwIqfdeXco9TO/gGQubaD3Mzl0gq73c/x0j5y/SS43kw==", "flower"=>{"name"=>"楓冬", "kana"=>"ふうと", "words"=>"うるさい", "words(1i)"=>"1", "words(2i)"=>"", "words(3i)"=>""}, "commit"=>"登録"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.5ms)[0m  [1m[32mINSERT INTO "flowers" ("name", "kana", "words", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "楓冬"], ["kana", "ふうと"], ["words", "{1=>1, 2=>nil, 3=>nil}"], ["created_at", "2022-03-31 05:11:44.536105"], ["updated_at", "2022-03-31 05:11:44.536105"]]
+  [1m[35m (26.9ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/flowers/5
+Completed 302 Found in 46ms (ActiveRecord: 30.6ms)
+
+
+Started GET "/flowers/5" for ::1 at 2022-03-31 14:11:44 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mFlower Load (0.5ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 122ms (Views: 111.6ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/flowers" for ::1 at 2022-03-31 14:12:30 +0900
+Processing by FlowersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Pitz244grOgSfhYFCUQacP8YM+7HpJS+w5YYHmjyNgiwIqfdeXco9TO/gGQubaD3Mzl0gq73c/x0j5y/SS43kw==", "flower"=>{"name"=>"楓冬", "kana"=>"ふうと", "words"=>"うるさい", "words(1i)"=>"1", "words(2i)"=>"", "words(3i)"=>""}, "commit"=>"登録"}
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (4.0ms)[0m  [1m[32mINSERT INTO "flowers" ("name", "kana", "words", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "楓冬"], ["kana", "ふうと"], ["words", "{1=>1, 2=>nil, 3=>nil}"], ["created_at", "2022-03-31 05:12:30.250192"], ["updated_at", "2022-03-31 05:12:30.250192"]]
+  [1m[35m (27.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/flowers/6
+Completed 302 Found in 73ms (ActiveRecord: 31.4ms)
+
+
+Started GET "/flowers/6" for ::1 at 2022-03-31 14:12:30 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mFlower Load (0.7ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 121ms (Views: 111.9ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/flowers/6" for ::1 at 2022-03-31 14:13:42 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mFlower Load (0.4ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 88ms (Views: 79.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/flowers/6" for ::1 at 2022-03-31 14:13:44 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mFlower Load (0.4ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 90ms (Views: 82.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:13:50 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (12.0ms)
+  Rendered flowers/new.html.erb within layouts/application (87.8ms)
+Completed 200 OK in 189ms (Views: 182.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/flowers" for ::1 at 2022-03-31 14:14:02 +0900
+Processing by FlowersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PMFh1ujokWBRk75YW2rT2xzskiFNTvgrd1O9xQO8JKayyLXQH78VfXBSKDl8Q2lc0M3VTSQdH2nASjlkImAlPQ==", "flower"=>{"name"=>"あ", "kana"=>"あ", "words"=>"うるさい", "date1(1i)"=>"1", "date1(2i)"=>"4", "date1(3i)"=>"", "date2(1i)"=>"1", "date2(2i)"=>"", "date2(3i)"=>"", "date3(1i)"=>"1", "date3(2i)"=>"", "date3(3i)"=>""}, "commit"=>"登録"}
+Unpermitted parameters: :date1(1i), :date1(2i), :date1(3i), :date2(1i), :date2(2i), :date2(3i), :date3(1i), :date3(2i), :date3(3i)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.5ms)[0m  [1m[32mINSERT INTO "flowers" ("name", "kana", "words", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "あ"], ["kana", "あ"], ["words", "うるさい"], ["created_at", "2022-03-31 05:14:02.471420"], ["updated_at", "2022-03-31 05:14:02.471420"]]
+  [1m[35m (9.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/flowers/7
+Completed 302 Found in 30ms (ActiveRecord: 12.8ms)
+
+
+Started GET "/flowers/7" for ::1 at 2022-03-31 14:14:02 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[36mFlower Load (0.5ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 115ms (Views: 105.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/flowers/7" for ::1 at 2022-03-31 14:30:49 +0900
+Processing by FlowersController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[36mFlower Load (0.7ms)[0m  [1m[34mSELECT  "flowers".* FROM "flowers" WHERE "flowers"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  Rendering flowers/show.html.erb within layouts/application
+  Rendered flowers/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 162ms (Views: 121.3ms | ActiveRecord: 4.7ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 14:30:53 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 111ms (Views: 105.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers" for ::1 at 2022-03-31 14:30:55 +0900
+Processing by FlowersController#index as HTML
+  Rendering flowers/index.html.erb within layouts/application
+  Rendered flowers/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 104ms (Views: 99.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flowers/new" for ::1 at 2022-03-31 14:31:03 +0900
+Processing by FlowersController#new as HTML
+  Rendering flowers/new.html.erb within layouts/application
+  Rendered flowers/_form.html.erb (17.5ms)
+  Rendered flowers/new.html.erb within layouts/application (24.3ms)
+Completed 200 OK in 131ms (Views: 125.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/flowers" for ::1 at 2022-03-31 14:31:19 +0900
+Processing by FlowersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"iPe2NaV4XC1cuTdJOMKmION8L2v4ALpDQkwMlWN82ScG/mIzUi/YMH14oSgf6xynL11oB5FTXQH1VYg0QqDYvA==", "flower"=>{"name"=>"a", "kana"=>"あ", "words"=>"うるさい", "date1(1i)"=>"1", "date1(2i)"=>"2", "date1(3i)"=>"7", "date2(1i)"=>"1", "date2(2i)"=>"", "date2(3i)"=>"", "date3(1i)"=>"1", "date3(2i)"=>"", "date3(3i)"=>""}, "commit"=>"登録"}
+Unpermitted parameters: :date1(1i), :date1(2i), :date1(3i), :date2(1i), :date2(2i), :date2(3i), :date3(1i), :date3(2i), :date3(3i)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.6ms)[0m  [1m[32mINSERT INTO "flowers" ("name", "kana", "words", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "a"], ["kana", "あ"], ["words", "うるさい"], ["created_at", "2022-03-31 05:31:19.115417"], ["updated_at", "2022-03-31 05:31:19.115417"]]
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 14.8ms)
+
+
+  
+NoMethodError (undefined method `[]' for nil:NilClass):
+  
+app/controllers/flowers_controller.rb:28:in `block in create'
+app/controllers/flowers_controller.rb:26:in `create'

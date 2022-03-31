@@ -28,22 +28,21 @@
 
   <div class="field">
     <%= form.label :誕生日 %>
-    <%= form.date_select :words,{discard_year:true} %>
+    <%= form.date_select :date1,{discard_year:true,include_blank: true} %>
   </div>
 
     <div class="field">
     <%= form.label :誕生日 %>
-    <%= form.date_select :words,{discard_year:true} %>
+    <%= form.date_select :date2,{discard_year:true,include_blank: true} %>
   </div>
 
   <div class="field">
     <%= form.label :誕生日 %>
-    <%= form.date_select :words,{discard_year:true}%>
+    <%= form.date_select :date3,{discard_year:true,include_blank: true} %>
   </div>
 
-
   <div class="actions">
-    <%= form.submit value="登録" %>
+    <%= form.submit  value="登録" %>
   </div>
 
 <% end %>

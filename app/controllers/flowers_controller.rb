@@ -25,7 +25,8 @@ class FlowersController < ApplicationController
 
     respond_to do |format|
       if @flower.save 
-               
+        infos = []
+        infos << Info.new(flower_id: @flower.id,date: Date.new(2020,params[:flower][:date1(2i)], params[:flower][:date1(3i)]))
         format.html { redirect_to flower_url(@flower), notice: "Flower was successfully created." }
         format.json { render :show, status: :created, location: @flower }
       else
