@@ -1,19 +1,27 @@
 <p id="notice"><%= notice %></p>
 
 <p>
-  <strong>Name:</strong>
+  <strong>花名:</strong>
   <%= @flower.name %>
 </p>
 
 <p>
-  <strong>Kana:</strong>
+  <strong>かな名:</strong>
   <%= @flower.kana %>
 </p>
 
 <p>
-  <strong>Words:</strong>
+  <strong>花言葉:</strong>
   <%= @flower.words %>
 </p>
+
+
+<% @infos.each do |info| %>
+ <p>
+  <strong>誕生花:</strong>
+ <%= info.date %>
+</p>
+<% end %>
 
 <%= link_to 'Edit', edit_flower_path(@flower) %> |
 <%= link_to 'Back', flowers_path %>

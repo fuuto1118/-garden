@@ -8,6 +8,7 @@ class FlowersController < ApplicationController
 
   # GET /flowers/1 or /flowers/1.json
   def show
+    @infos = Info.where(flower_id: @flower.id)
   end
 
   # GET /flowers/new
@@ -25,8 +26,21 @@ class FlowersController < ApplicationController
 
     respond_to do |format|
       if @flower.save 
-        infos = []
-        infos << Info.new(flower_id: @flower.id,date: Date.new(2020,params[:flower][:date1(2i)], params[:flower][:date1(3i)]))
+        dates = []
+        if params["flower"]["date1(2i)"] != "" && params["flower"]["date1(3i)"] != ""
+          dates << Date.new(2020,params["flower"]["date1(2i)"].to_i, params["flower"]["date1(3i)"].to_i)
+        end
+        if params["flower"]["date2(2i)"] != "" && params["flower"]["date2(3i)"] != ""
+          dates << Date.new(2020,params["flower"]["date2(2i)"].to_i, params["flower"]["date2(3i)"].to_i)
+        end
+        if params["flower"]["date3(2i)"] != "" && params["flower"]["date3(3i)"] != ""
+          dates << Date.new(2020,params["flower"]["date3(2i)"].to_i, params["flower"]["date3(3i)"].to_i)
+        end
+        dates.each do |hiduke|
+          info = Info.new(flower_id: @flower.id,date: hiduke)
+          info.save   
+        end
+                 
         format.html { redirect_to flower_url(@flower), notice: "Flower was successfully created." }
         format.json { render :show, status: :created, location: @flower }
       else
